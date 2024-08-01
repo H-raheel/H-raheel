@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Humera</h1>
-<h3 align="center">Aspiring Software Developer crafting Coffee-Infused Code Creations☕🪄👩‍💻</h3>
+<h3 align="center">Aspiring Software Developer crafting Coffee-Infused Code☕🪄👩‍💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-raheel" alt="h-raheel" /></a> </p>
 
@@ -16,6 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-raheel&show_icons=true&locale=en&layout=compact" alt="h-raheel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h-raheel&show_icons=true&locale=en" alt="h-raheel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-raheel&" alt="h-raheel" /></p>
