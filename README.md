@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humera</h1>
 <h3 align="center">Aspiring Software Developer crafting Coffee-Infused Code☕🪄👩‍💻</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-raheel&theme=algolia&column=4&margin-w=15&margin-h=15" alt="h-raheel" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/H-raheel](https://github.com/H-raheel)
 
