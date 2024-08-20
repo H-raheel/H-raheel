@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Humera</h1>
-<h3 align="center">Aspiring Software Developer crafting Coffee-Infused Code☕🪄👩‍💻</h3>
+<h3 align="center">Coffee-powered Software Developer, blending creativity and code ☕👩‍💻</h3>
 
 
 
