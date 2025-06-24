@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humera</h1>
 <h3 align="center">Coffee-powered Software Developer, blending creativity and code ☕👩‍💻</h3>
-<h4 align="center">🚀 Currently working on exciting,impactful projects — and always open to collaborations!</h4>
+<h4 align="center">🚀 Currently working on exciting, impactful projects — and always open to collaborations!</h4>
+<h5 align="center">💡 Interested in Backend Development, DevOps, and AI | Proficient in JavaScript, TypeScript, Java, and Python</h5>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
